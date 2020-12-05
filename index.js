@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 "use strict";
 const Canvas = require("drawille-canvas");
 const blessed = require('blessed');

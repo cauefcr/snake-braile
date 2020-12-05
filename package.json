@@ -1,5 +1,5 @@
 {
-  "name": "snake-braile",
+  "name": "@cauefcr/snake-braile",
   "version": "1.0.0",
   "description": "snake",
   "main": "index.js",
@@ -19,5 +19,16 @@
   },
   "devDependencies": {
     "eslint": "^7.14.0"
-  }
+  },
+  "bin": {
+    "snake": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cauefcr/snake-braile.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cauefcr/snake-braile/issues"
+  },
+  "homepage": "https://github.com/cauefcr/snake-braile#readme"
 }
