@@ -1,0 +1,22 @@
+{
+  "name": "snake-braile",
+  "version": "1.0.0",
+  "description": "snake",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "snake",
+    "braile"
+  ],
+  "author": "caue felchar",
+  "license": "MIT",
+  "dependencies": {
+    "drawille": "^1.1.1",
+    "drawille-canvas": "^1.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.14.0"
+  }
+}
