@@ -13,6 +13,7 @@
   "author": "caue felchar",
   "license": "MIT",
   "dependencies": {
+    "blessed": "^0.1.81",
     "drawille": "^1.1.1",
     "drawille-canvas": "^1.2.0"
   },
